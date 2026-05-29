@@ -1,4 +1,4 @@
-## ISRAVEL Y (25018187)
+## KISHORE R(212225040192)
 
 # 1. Conditional Statements in Python: Even or Odd Checker
 
